@@ -1,0 +1,28 @@
+{
+  "name": "tinypic",
+  "version": "1.0.0",
+  "description": "Image compression app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "compression",
+    "image"
+  ],
+  "author": "Ridhik Govind",
+  "license": "ISC",
+  "dependencies": {
+    "connect-busboy": "0.0.2",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.0",
+    "fs-extra": "^9.0.1",
+    "imagemin": "^7.0.1",
+    "imagemin-jpegtran": "^7.0.0",
+    "imagemin-pngquant": "^9.0.1",
+    "mkdirp": "^1.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
