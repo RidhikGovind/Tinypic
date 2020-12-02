@@ -3,7 +3,7 @@
 #### Compress your images offline without sacrificing privacy. 
 
 #### Flashback:  I used to compress my images either using various free online compression tools or any third part software.
-But I later found out that its not safe since you can't always do that with images having sensitive info.
+But I later found out that its not safe since you can't always do that with images having sensitive content.
 So I decided to make my own - Tinypic
 
 ### Features: 
